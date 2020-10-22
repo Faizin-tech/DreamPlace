@@ -1,0 +1,39 @@
+.destination-popular h1 {
+        font-size: 40px;
+        text-align: center;
+}
+
+.image-content {
+    min-height: 350px;
+}
+
+.card-title {
+    font-weight: bolder;
+    text-shadow: 0 2px 3px black;
+}
+
+.card-content {
+    max-height: 200px;
+    overflow: auto;
+}
+
+/* Hero */
+
+.landing-hero {
+    min-height: 400px;
+    margin: 40px auto;
+}
+
+.hero-text {
+    margin: 20px 0 20px 0;
+}
+
+.hero-text h1 {
+    font-size: 50px;
+    font-weight: 700;
+    margin-bottom: -30px;
+}
+
+.hero-text h2 {
+    font-size: 30px;
+}
